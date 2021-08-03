@@ -1,0 +1,1 @@
+## Construction of NOR gate latch and verification of its operation
